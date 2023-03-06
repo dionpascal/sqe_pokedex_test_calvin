@@ -2,6 +2,8 @@
 
 Pokedex List
 
+Using tailwind & ui kit from several materal-ui
+
 Feature:
 - Pagination
 - Detail List
